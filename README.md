@@ -17,11 +17,11 @@ In this lab we're going to walk through how to create an Active Directory home l
 - <b>Windows 10</b> (21H2)
 - <b>Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Setup walk-through:</h2>
 
 <p align="center">
 
-<img src="https://i.imgur.com/a/lnyWCwr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a/lnyWCwr.png" height="80%" width="80%" alt="ADHL Setup Steps"/>
 <br />
 <br />
 

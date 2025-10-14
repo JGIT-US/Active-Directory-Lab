@@ -1,6 +1,6 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [Step by Step Guide] (link)
+ ### [Questions?](https://www.facebook.com/JITechsolvers/posts/pfbid02K3mf2hPH4YrxwLxBT4X5b5tcBSmnX2Zfu3eEKhztpo5kcSjbaoy7u1gAmvw1p3SUl)
 
 <h2>Description</h2>
 In this lab we're going to walk through how to create an Active Directory home lab enviorment using Oracle Virtual Box. Configuring and running this lab will help develop your understanding of how active directory and windows networking works. I'd highly recommend running through this lab a couple times, and eventually trying to build it on your own without the guide. Please reach out to me if you have any questions!

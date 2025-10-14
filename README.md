@@ -20,10 +20,19 @@ In this lab we're going to walk through how to create an Active Directory home l
 <h2>Setup walk-through:</h2>
 
 <p align="center">
+ 
+![Ad Notes for tutorial-images-0](https://github.com/user-attachments/assets/c61da5ba-6ce6-40a0-b007-6c9b3b0daf16)
+![Ad Notes for tutorial-images-1](https://github.com/user-attachments/assets/e3cea63c-9b64-4511-802f-dfc696deb4d1)
+![Ad Notes for tutorial-images-2](https://github.com/user-attachments/assets/48186512-05d3-483e-88df-dd50ee21a35d)
+![Ad Notes for tutorial-images-3](https://github.com/user-attachments/assets/07937508-9dd5-4751-b2b7-d1efe117de63)
+![Ad Notes for tutorial-images-4](https://github.com/user-attachments/assets/ce82a52b-32fc-4e9b-b6ad-95b284196d38)
+![Ad Notes for tutorial-images-5](https://github.com/user-attachments/assets/355f4bd1-4320-4238-8695-a98d53b59fd9)
+![Ad Notes for tutorial-images-6](https://github.com/user-attachments/assets/190fdb9b-2e0f-4e0b-af54-d26e9c2dd6cf)
+![Ad Notes for tutorial-images-7](https://github.com/user-attachments/assets/c98e789b-57ef-4e60-956f-0d492c187aae)
+![Ad Notes for tutorial-images-8](https://github.com/user-attachments/assets/ef28feb1-f028-4e5e-9993-b18cbd03baa0)
+![Ad Notes for tutorial-images-9](https://github.com/user-attachments/assets/f740661d-c390-4fca-8187-f6d23ba2d64d)
 
-<img src="https://i.imgur.com/a/lnyWCwr.png" height="80%" width="80%" alt="ADHL Setup Steps"/>
-<br />
-<br />
+
 
 
 <!--
